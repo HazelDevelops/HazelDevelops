@@ -12,4 +12,4 @@ i'm an enby aromantic solarian uranic. google it.
 - [wut da dog doin](https://github.com/HazelDevelops/WutDaDogDoin)
 
 # other shit (not mods)
-[this thing](https://github.com/HazelDevelops/HazelDevelops)
+- [this thing](https://github.com/HazelDevelops/HazelDevelops)
